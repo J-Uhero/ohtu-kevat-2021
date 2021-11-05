@@ -4,7 +4,6 @@ import ssl
 
 class PlayerReader:
     def __init__(self, url):
-        #self._url = "https://nhlstatisticsforohtu.herokuapp.com/players.txt"
         self._url = url
 
     def get_players(self):
