@@ -22,7 +22,7 @@ class TestStatistics(unittest.TestCase):
         string = "Kurri EDM 37 + 53 = 90"
         self.assertAlmostEqual(str(player), string)
 
-    def test_search_gets_a_player_that_dont_exists(self):
+    def test_search_gets_a_player_that_doesnt_exists(self):
         name = "Mika Häkkinen"
         player = str(self.statistics.search(name))
         self.assertEqual(player, "None")
