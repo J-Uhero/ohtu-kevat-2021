@@ -1,4 +1,4 @@
-# Ohtu *syksy* 2021
+# Ohtu **syksy** 2021
 ## Viikko 1
 * tehtävät 2-13:
   - ![varasto](https://github.com/J-Uhero/ohtu-2021-viikko1)
