@@ -14,7 +14,7 @@
   - ![varasto/pylint](https://github.com/J-Uhero/ohtu-2021-viikko1)
 * tehtävät 5-7 tehty paikallisesti
 * branch-tehtävät 8 ja 9:
-  - mainin muutokset näkyvät tältä sivulta
+  - ![main/master](https://github.com/J-Uhero/ohtu-kevat-2021)
   - ![haara1](https://github.com/J-Uhero/ohtu-kevat-2021/tree/haara1)
   - ![haara2](https://github.com/J-Uhero/ohtu-kevat-2021/tree/haara2)
 * tehtävät 10-12:
