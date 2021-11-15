@@ -11,7 +11,7 @@
   - ![poetry-web](https://github.com/J-Uhero/ohtu-kevat-2021/tree/main/viikko2/poetry-web)
   - ![project-reader](https://github.com/J-Uhero/ohtu-kevat-2021/tree/main/viikko2/project-reader)
 * tehtävät 3-4:
-  -![varasto/pylint](https://github.com/J-Uhero/ohtu-2021-viikko1)
+  - ![varasto/pylint](https://github.com/J-Uhero/ohtu-2021-viikko1)
 * tehtävät 5-7 tehty paikallisesti
 * branch-tehtävät 8 ja 9:
   - mainin muutokset näkyvät tältä sivulta
