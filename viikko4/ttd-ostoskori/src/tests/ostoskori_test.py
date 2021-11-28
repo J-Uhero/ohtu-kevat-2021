@@ -5,8 +5,8 @@ from tuote import Tuote
 class TestOstoskori(unittest.TestCase):
     def setUp(self):
         self.kori = Ostoskori()
-        self.tuote1 = Tuote("eka", 2)
-        self.tuote2 = Tuote("toka", 3)
+        self.tuote1 = Tuote("ES", 2)
+        self.tuote2 = Tuote("kalja", 3)
 
     def test_ostoskorin_hinta_ja_tavaroiden_maara_alussa(self):
         self.assertEqual(self.kori.hinta(), 0)
@@ -44,3 +44,9 @@ class TestOstoskori(unittest.TestCase):
         self.kori.lisaa_tuote(self.tuote1)
         ostokset = self.kori.ostokset()
         self.assertEqual(len(ostokset), 1)
+    
+    def test_yhden_tuotteen_lisaamisen_jalkeen_korin_tuote_samanniminen_ja_lkm_yksi(self):
+        self.kori.lisaa_tuote(self.tuote1)
+        ostos = self.kori.ostokset()[0]
+        self.assertEqual(ostos.tuotteen_nimi(), "ES")
+        self.assertEqual(ostos.lukumaara(), 1)
