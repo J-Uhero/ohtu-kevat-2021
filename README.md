@@ -19,3 +19,13 @@
   - ![haara2](https://github.com/J-Uhero/ohtu-kevat-2021/tree/haara2)
 * tehtävät 10-12:
   - ![verkkokauppa](https://github.com/J-Uhero/ohtu-kevat-2021/tree/main/viikko2/verkkokauppa-1) 
+
+## Viikko 3
+* tehtävät 1-3:
+  - ![nhl-reader](https://github.com/J-Uhero/ohtu-kevat-2021/tree/main/viikko3/nhl-reader) (main() tiedostossa finnish_players.py)
+* tehtävä 4:
+  - ![hello-robot](https://github.com/J-Uhero/ohtu-kevat-2021/tree/main/viikko3/hello-robot)
+* tehtävät 5 ja 6:
+  - ![login-robot](https://github.com/J-Uhero/ohtu-kevat-2021/tree/main/viikko3/login-robot)
+* tehtävät 7-11:
+  - ![web-login-robot](https://github.com/J-Uhero/ohtu-kevat-2021/tree/main/viikko3/web-login-robot)
