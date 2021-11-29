@@ -28,8 +28,10 @@ class Ostoskori:
         self._hinta += lisattava.hinta()
 
     def poista_tuote(self, poistettava: Tuote):
-        # poistaa tuotteen
-        self._ostokset[poistettava.nimi()].muuta_lukumaaraa(-1)
+        if self._ostokset[poistettava.nimi()].lukumaara() > 1:
+            self._ostokset[poistettava.nimi()].muuta_lukumaaraa(-1)
+        else:
+            self._ostokset.pop(poistettava.nimi(), None)
 
     def tyhjenna(self):
         pass
