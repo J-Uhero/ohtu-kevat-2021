@@ -29,3 +29,17 @@
   - ![login-robot](https://github.com/J-Uhero/ohtu-kevat-2021/tree/main/viikko3/login-robot)
 * tehtävät 7-11:
   - ![web-login-robot](https://github.com/J-Uhero/ohtu-kevat-2021/tree/main/viikko3/web-login-robot)
+ 
+ ## Viikko 4
+ * tehtävä 1:
+  - ![mock-demo](https://github.com/J-Uhero/ohtu-syksy-2021/tree/main/viikko4/mock-demo)
+ * tehtävä 2:
+  - ![maksukortti-mock](https://github.com/J-Uhero/ohtu-syksy-2021/tree/main/viikko4/maksukortti-mock)
+ * tehtävä 3-4:
+  - ![verkkokauppa](https://github.com/J-Uhero/ohtu-syksy-2021/tree/main/viikko4/verkkokauppa)
+ * tehtävä 5:
+  - ![TTD-ostoskori](https://github.com/J-Uhero/ohtu-syksy-2021/tree/main/viikko4/ttd-ostoskori)
+ * Tehtävä 6:
+  - ![int-joukko](https://github.com/J-Uhero/ohtu-syksy-2021/tree/main/viikko4/int-joukko)
+ * tehtävä 7:
+  - ![tagit](https://github.com/J-Uhero/ohtu-syksy-2021/tags) Tagien nimien kanssa tuli vähän sählättyä ja siksi löytyykin ylimääräinen tagi. Varsinainen tehtävä tehty kuitenkin ohjeistuksen mukaan poikkeavia nimiä lukuunottamatta.
