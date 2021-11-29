@@ -82,6 +82,6 @@ class TestOstoskori(unittest.TestCase):
     
     def test_tyhjenna_tyhjentaa_korin(self):
         self.kori.lisaa_tuote(self.tuote1)
-        self.kori.poista_tuote(self.tuote2)
+        self.kori.lisaa_tuote(self.tuote2)
         self.kori.tyhjenna()
         self.assertEqual(len(self.kori.ostokset()), 0)
