@@ -33,7 +33,7 @@ class TennisGame:
             return_statement += "Win for "
 
         if difference > 0:
-            return return_statement + self.player1_name  
+            return return_statement + self.player1_name
         return return_statement + self.player2_name
 
     def get_score(self):
