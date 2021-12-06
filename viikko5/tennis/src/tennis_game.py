@@ -33,8 +33,8 @@ class TennisGame:
             return_statement += "Win for "
 
         if difference > 0:
-            return return_statement + "player1"  
-        return return_statement + "player2"
+            return return_statement + self.player1_name  
+        return return_statement + self.player2_name
 
     def get_score(self):
         if max(self.player1_score, self.player2_score) < 4:
