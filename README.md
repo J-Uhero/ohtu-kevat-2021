@@ -43,3 +43,13 @@
    - ![int-joukko](https://github.com/J-Uhero/ohtu-syksy-2021/tree/main/viikko4/int-joukko)
  * tehtävä 7:
    - ![tagit](https://github.com/J-Uhero/ohtu-syksy-2021/tags) Tagien nimien kanssa tuli vähän sählättyä ja siksi löytyykin ylimääräinen tagi. Varsinainen tehtävä tehty kuitenkin ohjeistuksen mukaan poikkeavia nimiä lukuunottamatta.
+
+## Viikko 5
+* tehtävät 1 ja 2:
+  - Tehtäviä ei suoritettu varsinaisesti mihinkään tiedostoon, mutta tehtävien suorittamisen vaiheet näkyvät 2.12. tehdyistä commiteista.
+* tehtävä 3:
+  - ![tennis](https://github.com/J-Uhero/ohtu-syksy-2021/tree/main/viikko5/tennis)
+* tehtävät 4 ja 5:
+  - ![laskin](https://github.com/J-Uhero/ohtu-syksy-2021/tree/main/viikko5/laskin)
+* tehtävä 6:
+  - ![retrospektiivi](https://github.com/J-Uhero/ohtu-syksy-2021/blob/main/retro.md)
