@@ -1,10 +1,13 @@
 from urllib import request
 from player import Player
+import ssl
+# lisätty jottei tulisi "SSL: CERTIFICATE_VERIFY_FAILED" -erroria
 
 
 class PlayerReader:
     def __init__(self, url):
         self._url = url
+        ssl._create_default_https_context = ssl._create_unverified_context
 
     def get_players(self):
         players_file = request.urlopen(self._url)
