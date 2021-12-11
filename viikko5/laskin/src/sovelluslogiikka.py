@@ -10,7 +10,7 @@ class Sovelluslogiikka:
     @tulos.setter
     def tulos(self, arvo):
         self._edellinen_tulos = self._tulos
-        self._tulos = int(arvo)
+        self._tulos = arvo
     
     def kumoa(self):
         self._tulos = self._edellinen_tulos
@@ -37,7 +37,6 @@ class Nollaus:
         self._sovellus.tulos = 0
 
 class Kumoa:
-    pass
     def __init__(self, sovellus):
         self._sovellus = sovellus
 
