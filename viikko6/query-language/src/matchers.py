@@ -6,7 +6,6 @@ class And:
         for matcher in self._matchers:
             if not matcher.matches(player):
                 return False
-        
         return True
 
 class Not:
