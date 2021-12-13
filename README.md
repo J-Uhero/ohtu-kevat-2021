@@ -58,6 +58,6 @@
  * tehtävä 1:
    - tehtävä tehty lokaalisti, mutta muutokset näkyvät 11.12. commiteissa
  * tehtävät 2- 5:
-   ![query-language](https://github.com/J-Uhero/ohtu-syksy-2021/tree/main/viikko6/query-language)
+   - ![query-language](https://github.com/J-Uhero/ohtu-syksy-2021/tree/main/viikko6/query-language)
  * tehtävä 6:
-   ![pull-request](https://github.com/J-Uhero/ohtu-syksy-2021/blob/main/PULL.md) (pull-requestiä ei oltu hyväksytty vielä tehtävien palautushetkeen mennessä)
+   - ![pull-request](https://github.com/J-Uhero/ohtu-syksy-2021/blob/main/PULL.md) (pull-requestiä ei oltu hyväksytty vielä tehtävien palautushetkeen mennessä)
