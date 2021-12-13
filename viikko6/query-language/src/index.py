@@ -23,13 +23,13 @@ def main():
     matcher = (
     query
         .oneOf(
-        query.playsIn("PHI")
-            .hasAtLeast(10, "assists")
-            .hasFewerThan(5, "goals")
-            .build(),
-        query.playsIn("EDM")
-            .hasAtLeast(40, "points")
-            .build()
+            query.playsIn("PHI")
+                .hasAtLeast(10, "assists")
+                .hasFewerThan(5, "goals")
+                .build(),
+            query.playsIn("EDM")
+                .hasAtLeast(40, "points")
+                .build()
         )
         .build()
     )
