@@ -53,3 +53,11 @@
   - ![laskin](https://github.com/J-Uhero/ohtu-syksy-2021/tree/main/viikko5/laskin)
 * tehtävä 6:
   - ![retrospektiivi](https://github.com/J-Uhero/ohtu-syksy-2021/blob/main/retro.md)
+ 
+ ## Viikko 6
+ * tehtävä 1:
+   - tehtävä tehty lokaalisti, mutta muutokset näkyvät 11.12. commiteissa
+ * tehtävät 2- 5:
+   ![query-language](https://github.com/J-Uhero/ohtu-syksy-2021/tree/main/viikko6/query-language)
+ * tehtävä 6:
+   !(pull-request)[https://github.com/J-Uhero/ohtu-syksy-2021/blob/main/PULL.md] (pull-requestiä ei oltu hyväksytty vielä tehtävien palautushetkeen mennessä)
