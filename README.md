@@ -61,3 +61,11 @@
    - ![query-language](https://github.com/J-Uhero/ohtu-syksy-2021/tree/main/viikko6/query-language)
  * tehtävä 6:
    - ![pull-request](https://github.com/J-Uhero/ohtu-syksy-2021/blob/main/PULL.md) (pull-requestiä ei oltu hyväksytty vielä tehtävien palautushetkeen mennessä)
+  
+ ## Viikko 7
+* tehtävät 1-2:
+  - tehtäviä ei varsinaisesti näy minään palautuksena, niin kuin materiaalissa mainittiin, mutta tehtävien suorittamisen commitit löytyvät 20.12. tehdyistä commiteista
+* tehtävät 3-5
+  - tehtävät 3, 4 ja 5 jäivät tältä viikolta tekemättä
+* tehtävä 6:
+  - kurssipalaute annettu
